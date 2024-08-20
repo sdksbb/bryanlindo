@@ -1,5 +1,6 @@
 body {
     background-color: rgb(223, 226, 43)
+    
 }
 
 p {
@@ -9,7 +10,7 @@ background-color: rgb(89, 255, 0);
 .tarde {
     font-style:italic
 }
-
+h1{text-align: left;}
 
 
 
