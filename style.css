@@ -6,7 +6,14 @@ body {
 p {
 background-color: rgb(89, 255, 0);
 }
-    
+nav a {
+    margin-top: 5px;
+     padding: 2px;
+     font-size: 20px;
+     text-decoration: none;
+     color:rgba(204, 168, 238, 0.192)
+ }
+ h1 {    
 .tarde {
     font-style:italic
 }
