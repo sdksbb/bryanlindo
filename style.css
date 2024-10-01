@@ -10,7 +10,7 @@ nav a {
      margin-top: 5px;
      padding: 2px;
      font-size: 40px;
-     color:rgba(4, 0, 255, 0.192);
+     color:blue;
      display: flex;
      justify-content: center;
  }
